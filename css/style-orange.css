@@ -1,3 +1,4 @@
+
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
@@ -743,6 +744,7 @@ a:hover {
 
 .counter-ico {
   margin-bottom: 1rem;
+
 }
 
 .counter-ico .ico-circle {
@@ -1121,6 +1123,9 @@ footer .credits a {
 /*======================================
 //--//-->   BUTTON
 ======================================*/
+div.col-sm-3.col-ig-3{
+  color: darkred;
+}
 
 .button {
   display: inline-block;
